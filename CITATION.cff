@@ -3,7 +3,7 @@ type: software
 message: "If you use this software in your work, please cite it as below."
 authors:
 - family-names: "Fernandez"
-  given-names: "François-Guillaume"
+  given-names: "François-Guillaume"xcxc
 title: "TorchCAM: class activation explorer"
 date-released: 2020-05-24
 url: "https://github.com/frgfm/torch-cam"
